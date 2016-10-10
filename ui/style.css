@@ -19,7 +19,9 @@ body {
 .img-medium {
     height: 200px;
 }
-#mybutton : hover {
+#mybutton {
     letter-spacing : 10px;
+    color : red;
+    font-family: sans-serif;
 }
 
