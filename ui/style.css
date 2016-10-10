@@ -75,3 +75,7 @@ body{
 #main{
     color:blue;
 }
+#buttons{
+    max-width:600px;
+    max-height:200px;
+}
